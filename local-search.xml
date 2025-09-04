@@ -8,7 +8,7 @@
     <link href="/2025/09/02/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86/"/>
     <url>/2025/09/02/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86/</url>
     
-    <content type="html"><![CDATA[<p><img src="/images/CVmine.svg" alt="My CV" title="My CV"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/CVmine.svg" alt="My CV" title="My CV"></p><p>这份简历由Typst语言写作，本网站使用Hexo框架的一大原因，正是Typst语言号称可以无缝迁移至Hexo框架的网站上。</p><p>然而，正如你所见到的，这一迁移的方法我还没有测试成功。</p>]]></content>
     
     
     
